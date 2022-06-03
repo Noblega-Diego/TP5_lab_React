@@ -1,0 +1,18 @@
+.main{
+    height: 50px;
+    width: 100vw;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.main ul{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    list-style: none;
+}
+.main li{
+    margin: 0px 10px;
+}

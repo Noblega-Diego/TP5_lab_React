@@ -1,0 +1,12 @@
+.green{
+    color: #00a650;
+}
+
+.narange{
+    color: #FF6E0D;
+}
+
+.icon > img{
+    display: inline;
+    height: 18px;
+}
